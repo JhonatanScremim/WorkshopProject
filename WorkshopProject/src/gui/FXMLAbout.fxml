@@ -5,8 +5,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-
-<VBox prefHeight="229.0" prefWidth="318.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171">
+<VBox prefHeight="229.0" prefWidth="318.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <Label text="Sobre: ">
          <font>
@@ -16,7 +15,17 @@
             <Insets left="20.0" right="10.0" top="10.0" />
          </padding>
       </Label>
-      <Label text="JavaFx application Demo">
+      <Label prefHeight="24.0" prefWidth="318.0" text="Sistema desenvolvido para criação de departamentos">
+         <padding>
+            <Insets left="20.0" top="2.0" />
+         </padding>
+      </Label>
+      <Label prefHeight="17.0" prefWidth="302.0" text="e vendedores, use a aba &quot;Registros&quot; ">
+         <padding>
+            <Insets left="20.0" top="2.0" />
+         </padding>
+      </Label>
+      <Label text="para ir até a janela selecionada.">
          <padding>
             <Insets left="20.0" top="2.0" />
          </padding>
